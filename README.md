@@ -10,7 +10,7 @@ Part 1. Editing the settings.
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 ![image](https://github.com/user-attachments/assets/c2d595bd-e1bf-4d6d-b378-04719fdb1534)
 
-confige
+config
 
 1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
 
